@@ -1,0 +1,18 @@
+"attribute
+","data_type
+","description
+","data_scope
+","data_size
+",mandatory_field,"characteristic
+","data_format
+"
+No,numeric/float,รหัสผู้ป่วย,,,,,
+Age,numeric/int,อายุของผู้ป่วย,,,,,
+Sex,Text,เพศผู้ป่วย,,,,,
+Nation,Text,สัญชาติ,,,,,
+occ_new,Text,อาชีพของผู้ป่วย,,,,,
+Province,Text,จังหวัดตรวจพบผู้ป่วย,,,,,
+Risk,Text,รูปแบบความเสี่ยง,,,,,
+District,Text,อำเภอที่ตรวจพบผู้ป่วย,,,,,
+Notification Date,Date,วันที่กระทรวงได้รับรายงาน,,,,,
+Announce Date,Date,วันที่แถลงข่าว,,,,,
